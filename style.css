@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+
+.hero-image{
+    background-image:linear-gradient(#020a20,#020a2057), url(img/hero-img.jpg);
+    height: 320px; 
+    background-position: top;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+}
+
+.top-75{
+    top: 75%;
+}
+
+.letter-spacing{
+    letter-spacing: 5px;
+}
+
+.text-darkred{
+    color: #990033;
+}
+
+.outline-0{
+ outline: 0;
+}
+
+.ms-6{
+    margin-left: 125px;
+}
+
+.stil:hover{
+    color: #990033;
+
+}
